@@ -1,0 +1,7 @@
+Simple app that uses Claude.ai/Anthropic with Ruby https://github.com/alexrudall/anthropic
+
+Uses dotenv ...
+
+# .env > .env-sample
+
+Add your keys to .env
